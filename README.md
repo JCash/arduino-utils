@@ -11,7 +11,7 @@ Build the tools with
 ## image2header
 
 Converts an image into a C++ header with a byte array suitable for rendering on an OLED device (e.g. SSD1306)
-The input formats are: .png, .tga, .jpg, .bmp etc. See [src/stb_image.h](stb_image.h) for more info.
+The input formats are: .png, .tga, .jpg, .bmp etc. See [src/stb_image.h](src/stb_image.h) for more info.
 
 Usage:
 
